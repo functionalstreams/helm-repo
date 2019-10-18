@@ -3,9 +3,9 @@ entries:
   sqs-prometheus-exporter:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2019-10-18T21:20:30.4907186Z"
+    created: "2019-10-18T21:22:02.790026852Z"
     description: A Helm chart for sqs prometheus exporter
-    digest: 193c2d39f1dd9786d833c02c53cb90ef9a314f339535b954e2b14ad0aa9e3b4e
+    digest: 649bec28a5143f7a29a03177dfa96caab6f2cd8c1bca38406e24bd2cc059297c
     name: sqs-prometheus-exporter
     urls:
     - sqs-prometheus-exporter-0.1.0.tgz
@@ -28,4 +28,4 @@ entries:
     urls:
     - sqs-prometheus-exporter-0.0.6.tgz
     version: 0.0.6
-generated: "2019-10-18T21:20:30.489103046Z"
+generated: "2019-10-18T21:22:02.789699857Z"
